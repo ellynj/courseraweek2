@@ -20,9 +20,9 @@ h2 {
     box-sizing: border-box;
     border: 1px solid black;
     color: purple;
-    width: 20px;
+    width: 30%;
     position: relative;
-    left: 40px;
+    left: 60%;
 }
 .row {
     width: 100%;
