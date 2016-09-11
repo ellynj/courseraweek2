@@ -44,8 +44,7 @@ p {
 }
 @media (min-width: 992px) {
         .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
-        border: solid black
-        box-sizing: border-box; 
+        border: solid black 
     }
     .col-lg-1{
         width:8.33%;
@@ -84,7 +83,8 @@ p {
         width:100%;
     }
 }
-@media (min-width: 768px) and (max-width: 991px){.col-tab-1, .col-tab-2, .col-tab-3, .col-tab-4, .col-tab-5, .col-tab-6, .col-tab-7, .col-tab-8, .col-tab-9, .col-tab-10, .col-tab-11, .col-tab-12 {
+@media (min-width: 768px) and (max-width: 991px){
+.col-tab-1, .col-tab-2, .col-tab-3, .col-tab-4, .col-tab-5, .col-tab-6, .col-tab-7, .col-tab-8, .col-tab-9, .col-tab-10, .col-tab-11, .col-tab-12 {
         border: solid black
 }
 .col-tab-1{
@@ -122,9 +122,11 @@ p {
     }
     .col-tab-12{
         width:100%;
-@media (max-width: 767px){.col-mob-1, .col-mob-2, .col-mob-3, .col-mob-4, .col-mob-5, .col-mob-6, .col-mob-7, .col-mob-8, .col-mob-9, .col-mob-10, .col-mob-11, .col-mob-12 {
-        border: solid black
-}
+    }    
+@media (max-width: 767px){
+    .col-mob-1, .col-mob-2, .col-mob-3, .col-mob-4, .col-mob-5, .col-mob-6, .col-mob-7, .col-mob-8, .col-mob-9, .col-mob-10, .col-mob-11, .col-mob-12
+    border: solid black
+    }
     .col-mob-1{
         width:8.33%;
     }
