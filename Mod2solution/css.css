@@ -19,12 +19,11 @@ section {
     float: left;
     position: relative;
     padding: 0px;
-    margin: 5px;
-    
+    margin: 0px;
     }
 h2 {
     background-color: gray;
-    text-align: right;
+    text-align: center;
     box-sizing: border-box;
     border: 1px solid black;
     color: purple;
