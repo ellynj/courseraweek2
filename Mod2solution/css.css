@@ -8,6 +8,9 @@ h1 {
     text-align: center;
     text-decoration: bold;
 }
+body{
+margin:0px
+}
 div {
     box-sizing: border-box;
     margin: 10px
@@ -19,7 +22,7 @@ section {
     float: left;
     position: relative;
     padding: 0px;
-    margin: 0px;
+    margin: 5px;
     }
 h2 {
     background-color: gray;
